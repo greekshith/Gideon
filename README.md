@@ -9,4 +9,4 @@ the speech to text recognition of sphinx was inaccurate and so I switched to
 google's recognition API.  
 
 ### Gideon's Interface
-[![Gideon App](./Gideon.png "Gideon - Virtual Assistant")](https://digitalocean.com)
+[![Gideon App](./Gideon.png "Gideon - Virtual Assistant")](https://github.com/greekshith/Gideon)
